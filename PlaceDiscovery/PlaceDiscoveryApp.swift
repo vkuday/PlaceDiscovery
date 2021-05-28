@@ -11,7 +11,7 @@ import SwiftUI
 struct PlaceDiscoveryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiscoverView()
         }
     }
 }
